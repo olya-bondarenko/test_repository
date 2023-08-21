@@ -1,1 +1,1 @@
-This is my test repositori.
+This is my test repository.
